@@ -1,0 +1,3 @@
+[submodule "system-app-example"]
+	path = system-app-example
+	url = git@github.com:shinglyu/fxos-back-button.git
