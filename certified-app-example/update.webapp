@@ -1,6 +1,7 @@
 {
-  "name": "Certified App Injection",
-  "description": "Inject certified app (messages), change the header color",
+  "name": "Certified App Example",
+  "description": "Make the title bar fo Messages app flash",
+  "version":"0.2",
   "developer": {
     "name": "Shing Lyu",
     "url": "https://shinglyu.github.io/"
@@ -8,8 +9,6 @@
   "type": "certified",
   "package_path": "package.zip",
   "icons": {
-    "64": "/icons/icon-64.png",
     "128": "/icons/icon-128.png",
-    "256": "/icons/icon-256.png"
   }
 }

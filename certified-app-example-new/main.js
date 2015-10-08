@@ -19,6 +19,6 @@
     }
   }, 500);
 
-  alert('NEW VERSION injected')
+  alert('injected')
   
 }());
