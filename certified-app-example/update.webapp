@@ -1,7 +1,7 @@
 {
   "name": "Certified App Example",
   "description": "Make the title bar fo Messages app flash",
-  "version":"0.2",
+  "version":"0.1",
   "developer": {
     "name": "Shing Lyu",
     "url": "https://shinglyu.github.io/"
