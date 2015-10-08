@@ -20,7 +20,7 @@ A collection of Firefox OS Add-ons for testing purpose
 
 4. Add-on with two different versions (newer version would be put on marketplace)
   * Old verstion: `certified-app-example`, new version: `certified-app-example-new`
-  * Expected behavior: The new version will have a alert message with "NEW VERSION" in it. The Message app title will flash white and blue.
+  * Expected behavior: The Message app title will flash white and blue.
 
 5. App with two different versions  (newer version would be put on marketplace), and an add-on injects this app
   * `priviledged-app-example`
